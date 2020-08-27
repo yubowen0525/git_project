@@ -14,4 +14,3 @@
 if __name__ == '__main__':
     print("hello world1")
     print("hello world2")
-    print("hello world3")
